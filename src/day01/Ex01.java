@@ -19,6 +19,10 @@ public class Ex01 {
 		 여러줄 주석
 		 */
 		
+
 		System.out.println("학원에서 추가");
+
+		System.out.println("집에서 추가");
+
 	}
 }
